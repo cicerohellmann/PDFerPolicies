@@ -4,48 +4,48 @@ This privacy policy applies to the PDFer app (hereby referred to as "Application
 
 **Information Collection and Use**
 
-The Application collects information when you download and use it. This information may include information such as
+The Application does not collect, transmit, or share any personal information. All data remains on your device and is never sent to external servers.
 
-*   Your device's Internet Protocol address (e.g. IP address)
-*   The pages of the Application that you visit, the time and date of your visit, the time spent on those pages
-*   The time spent on the Application
-*   The operating system you use on your mobile device
+The Application stores the following data locally on your device:
 
-The Application does not gather precise information about the location of your mobile device.
+*   Photos and documents you capture or import for use in your PDF projects
+*   Workspace data such as project names and organization
+*   Your selected visual theme preference
+
+This data is stored in the Application's private storage on your device and is not accessible to other applications.
+
+The Application does not collect your IP address, device identifiers, usage analytics, location data, or any other personal information.
 
 The Application does not use Artificial Intelligence (AI) technologies to process your data or provide features.
 
-The Service Provider may use the information you provided to contact you from time to time to provide you with important information, required notices and marketing promotions.
+**Camera and Photo Library Access**
 
-For a better experience, while using the Application, the Service Provider may require you to provide us with certain personally identifiable information. The information that the Service Provider request will be retained by them and used as described in this privacy policy.
+The Application requests access to your device's camera and photo library solely to allow you to capture or import images for your PDF documents. These images are stored locally on your device and are never transmitted externally.
 
 **Third Party Access**
 
-Only aggregated, anonymized data is periodically transmitted to external services to aid the Service Provider in improving the Application and their service. The Service Provider may share your information with third parties in the ways that are described in this privacy statement.
+The Application does not transmit any data to third parties. There are no analytics services, advertising networks, crash reporting tools, or cloud services integrated into the Application.
 
-The Service Provider may disclose User Provided and Automatically Collected Information:
+The Service Provider may disclose information only:
 
 *   as required by law, such as to comply with a subpoena, or similar legal process;
-*   when they believe in good faith that disclosure is necessary to protect their rights, protect your safety or the safety of others, investigate fraud, or respond to a government request;
-*   with their trusted services providers who work on their behalf, do not have an independent use of the information we disclose to them, and have agreed to adhere to the rules set forth in this privacy statement.
+*   when they believe in good faith that disclosure is necessary to protect their rights, protect your safety or the safety of others, investigate fraud, or respond to a government request.
 
 **Opt-Out Rights**
 
-You can stop all collection of information by the Application easily by uninstalling it. You may use the standard uninstall processes as may be available as part of your mobile device or via the mobile application marketplace or network.
+You can stop all collection of information by the Application easily by uninstalling it. You may use the standard uninstall processes as may be available as part of your mobile device or via the mobile application marketplace or network. Uninstalling the Application will delete all locally stored data.
 
 **Data Retention Policy**
 
-The Service Provider will retain User Provided data for as long as you use the Application and for a reasonable time thereafter. If you'd like them to delete User Provided Data that you have provided via the Application, please contact them at cicerohellmann@gmail.com and they will respond in a reasonable time.
+All data is stored locally on your device. The Application automatically cleans up temporary export files older than 7 days and preview files older than 24 hours. If you uninstall the Application, all data is removed.
 
 **Children**
 
-The Service Provider does not use the Application to knowingly solicit data from or market to children under the age of 13.
-
-The Service Provider does not knowingly collect personally identifiable information from children. The Service Provider encourages all children to never submit any personally identifiable information through the Application and/or Services. The Service Provider encourage parents and legal guardians to monitor their children's Internet usage and to help enforce this Policy by instructing their children never to provide personally identifiable information through the Application and/or Services without their permission. If you have reason to believe that a child has provided personally identifiable information to the Service Provider through the Application and/or Services, please contact the Service Provider <span>(cicerohellmann@gmail.com)</span> so that they will be able to take the necessary actions. You must also be at least 16 years of age to consent to the processing of your personally identifiable information in your country (in some countries we may allow your parent or guardian to do so on your behalf).
+The Service Provider does not use the Application to knowingly solicit data from or market to children under the age of 13. The Application does not collect any personal information from any user, including children.
 
 **Security**
 
-The Service Provider is concerned about safeguarding the confidentiality of your information. The Service Provider provides physical, electronic, and procedural safeguards to protect information the Service Provider processes and maintains.
+Since the Application operates entirely offline and does not transmit data, your information remains on your device and is protected by your device's own security measures.
 
 **Changes**
 
@@ -60,7 +60,3 @@ By using the Application, you are consenting to the processing of your informati
 **Contact Us**
 
 If you have any questions regarding privacy while using the Application, or have questions about the practices, please contact the Service Provider via email at cicerohellmann@gmail.com.
-
-* * *
-
-This privacy policy page was generated by [App Privacy Policy Generator](https://app-privacy-policy-generator.nisrulz.com/)
